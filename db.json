@@ -1,5 +1,5 @@
 {
-   "ge-profiles":{
+   "profiles":{
       "error": false,
       "typeError": "",
       "numRows": 4,
