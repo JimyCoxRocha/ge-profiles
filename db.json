@@ -1,31 +1,31 @@
 {
-    "error": false,
-    "typeError": "",
-    "numRows": 4,
-    "messages": [
-        "Proceso ejecutado correctamente."
-    ],
-    "data": [
+   "error": false,
+   "typeError": "",
+   "numRows": 4,
+   "messages": [
+      "Proceso ejecutado correctamente."
+   ],
+   "data": [
       {
-        idProfile: '1',
-        name: 'Admin',
-        status: true,
-        numOptions: '2',
-        numUsers: '2'
+         "idProfile": "1",
+         "name": "Admin",
+         "status": true,
+         "numOptions": "2",
+         "numUsers": "2"
       },
       {
-        idProfile: '2',
-        name: 'Support',
-        status: false,
-        numOptions: '3',
-        numUsers: '3'
+         "idProfile": "2",
+         "name": "Support",
+         "status": false,
+         "numOptions": "3",
+         "numUsers": "3"
       },
       {
-        idProfile: '3',
-        name: 'Viewer',
-        status: true,
-        numOptions: '5',
-        numUsers: '5'
+         "idProfile": "3",
+         "name": "Viewer",
+         "status": true,
+         "numOptions": "5",
+         "numUsers": "5"
       }
-    ]
+   ]
 }
